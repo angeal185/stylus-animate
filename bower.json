@@ -1,0 +1,23 @@
+{
+  "name": "stylus-animate",
+  "version": "1.0.0",
+  "authors": [
+    "ben eaves"
+  ],
+  "description": "stylus port of animate.css",
+  "main": "animate.styl",
+  "keywords": [
+    "stylus",
+    "animate",
+	"animate.css",
+    "port",
+    "stylus-animate",
+    "animate-stylus"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/angeal185/stylus-animate",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angeal185/stylus-animate.git"
+  }
+}
