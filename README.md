@@ -9,7 +9,7 @@ $ bower install stylus-animate --save-dev
 ```
 
 ### info
-A complete, fully functional and unaltered convert of animate.css to stylus.  
+A complete, fully functional convert of animate.css to stylus.  
 No learning curve and no repeats. build it how you want it or just use it as an easy way to exclude unused css.
 
 ### Instructions
